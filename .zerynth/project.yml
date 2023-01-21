@@ -1,0 +1,4 @@
+--- {board: eva_zm1, docs: 'https://docs.zerynth.com/latest/hardware/', name: ZM1
+        Evaluation Board, pinmap: 'https://docs.zerynth.com/latest/hardware/', short_name: ZM1-EVA,
+    specs: zf, uid: null, version: v3.0.12}
+...
