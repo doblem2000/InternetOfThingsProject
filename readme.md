@@ -1,2 +1,1 @@
-Project created at 2022-04-27T14:05:04.463409Z
-
+A smart security system for a home environment that can detect the presence of intruders and carry out actions deterrence. Sensors that acquire data from the external environment, interconnected via a network, capable of providing services and with an intuitive representation of the data.
